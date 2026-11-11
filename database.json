@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794370786144,
+  "updatedAt": 1794371425257,
   "version": "2.1.0",
   "mods": [
     {
@@ -171,16 +171,6 @@
       "createdAt": 1794250000000
     },
     {
-      "id": "modder-neri",
-      "name": "NERI",
-      "role": "modder",
-      "status": "approved",
-      "discord": "@neri_mods",
-      "avatar": "",
-      "bio": "Criador oficial de Mini Packs de motos e roncos para MX Bikes",
-      "createdAt": 1794250000000
-    },
-    {
       "id": "modder-jota",
       "name": "JOTA DO GRAU",
       "role": "modder",
@@ -188,16 +178,6 @@
       "discord": "@jota_grau",
       "avatar": "",
       "bio": "Especialista em montadinhas SP, 160 e motos preparadas",
-      "createdAt": 1794250000000
-    },
-    {
-      "id": "modder-daniel",
-      "name": "DANIEL NG",
-      "role": "modder",
-      "status": "approved",
-      "discord": "@daniel_ng",
-      "avatar": "",
-      "bio": "Modder XT 660, Meiota e Big Trails de Grau",
       "createdAt": 1794250000000
     }
   ]
