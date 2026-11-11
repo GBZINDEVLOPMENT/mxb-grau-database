@@ -1,184 +1,310 @@
 {
-  "updatedAt": 1794371425257,
-  "version": "2.1.0",
-  "mods": [
-    {
-      "id": 1794180536381,
-      "slug": "mini-pack-de-4-motos-do-neri",
-      "title": "MINI PACK DE 4 MOTOS DO NERI",
-      "author": "NERI",
-      "authorUrl": null,
-      "categoryId": 7,
-      "categories": [
-        "Mods de Grau"
-      ],
-      "gameVersions": [
-        "18j"
-      ],
-      "version": "v1.0",
-      "date": "2026-11-08T23:28:56.381Z",
-      "image": "https://cdn.discordapp.com/attachments/1081719108049051719/1569110178710954094/Captura_de_tela_2026-11-08_190136.png?ex=6af2433b&is=6af0f1bb&hm=a61cd2349aef6298374a20d9a1d609b6fe042eab3e9b36051753ee88193dec5d&",
-      "images": [
-        "https://cdn.discordapp.com/attachments/1081719108049051719/1569110178710954094/Captura_de_tela_2026-11-08_190136.png?ex=6af2433b&is=6af0f1bb&hm=a61cd2349aef6298374a20d9a1d609b6fe042eab3e9b36051753ee88193dec5d&",
-        "https://cdn.discordapp.com/attachments/1081719108049051719/1569110179356610580/Captura_de_tela_2026-11-08_185832.png?ex=6af2433b&is=6af0f1bb&hm=c89fe8584127e2b79bf390c8f8cd9d84735cbb8981bacd56b320e6203a0ae8bc&"
-      ],
-      "descriptionHtml": "<p>pack do neri contem 4 motos</p>",
-      "downloads": [
-        {
-          "url": "https://www.mediafire.com/file/ragi1ipm71zsovp/mini_pack_do_neri.rar/file",
-          "host": "Download Beta 18j",
-          "isDefault": true,
-          "isServer": false,
-          "label": "Download Beta 18j (.pkz / .zip)",
-          "gameVersion": "18j"
-        }
-      ],
-      "views": 1,
-      "ratingAvg": 5,
-      "ratingCount": 1
-    }
-  ],
-  "servers": [
-    {
-      "name": "[OFICIAL #1] GRAU SP 24H — MAPA SP ROLEZINHO & FLUXO",
-      "address": "26.37.198.197:54210",
-      "joinable": true,
-      "lanAddress": "127.0.0.1:54210",
-      "players": 0,
-      "maxPlayers": 30,
-      "pingMs": 14,
-      "passworded": false,
-      "location": "BR · Brasil · Rede GrauNet P2P",
-      "bots": 0,
-      "rating": "",
-      "track": "MAPA_SP",
-      "trackLayout": "Fluxo & Retão",
-      "categories": [
-        "Motos de Grau",
-        "Montadinhas",
-        "Big Trail"
-      ],
-      "bikes": [
-        "CG 160 Titan",
-        "XJ6 N",
-        "Hornet 600",
-        "BMW R1250 GS"
-      ],
-      "session": "Grau Livre 24h",
-      "raceLength": "Livre",
-      "conditions": "Sunny",
-      "realisticWeather": false,
-      "forceCockpit": false,
-      "noAids": false,
-      "limitedTyreSets": false,
-      "hidden": "",
-      "gameVersion": "18j",
-      "official": true,
-      "networkMode": "p2p",
-      "radminNetwork": "",
-      "radminPassword": "",
-      "hostRider": "Servidor Oficial Grau BR",
-      "updatedAt": 1794262968586
-    },
-    {
-      "name": "[OFICIAL #2] PROJETO GRAU BRASIL — RETÃO & RACHA NOTURNO",
-      "address": "26.37.198.197:54211",
-      "joinable": true,
-      "lanAddress": "127.0.0.1:54211",
-      "players": 0,
-      "maxPlayers": 25,
-      "pingMs": 16,
-      "passworded": false,
-      "location": "BR · Brasil · Rede GrauNet P2P",
-      "bots": 0,
-      "rating": "",
-      "track": "ProjetoGrau2",
-      "trackLayout": "Pista Noturna",
-      "categories": [
-        "Motos de Grau",
-        "Rua"
-      ],
-      "bikes": [
-        "BMW R1250 GS",
-        "XJ6 N",
-        "CG 160"
-      ],
-      "session": "Rolê Noturno",
-      "raceLength": "Livre",
-      "conditions": "Clear",
-      "realisticWeather": false,
-      "forceCockpit": false,
-      "noAids": false,
-      "limitedTyreSets": false,
-      "hidden": "",
-      "gameVersion": "18j",
-      "official": true,
-      "networkMode": "p2p",
-      "radminNetwork": "",
-      "radminPassword": "",
-      "hostRider": "Servidor Oficial Grau BR",
-      "updatedAt": 1794262968586
-    },
-    {
-      "name": "[OFICIAL #3 BETA 20C] MX GRAU ARENA — NOVA FÍSICA 20C",
-      "address": "26.37.198.197:54212",
-      "joinable": true,
-      "lanAddress": "127.0.0.1:54212",
-      "players": 0,
-      "maxPlayers": 25,
-      "pingMs": 18,
-      "passworded": false,
-      "location": "BR · Brasil · Rede GrauNet P2P",
-      "bots": 0,
-      "rating": "",
-      "track": "Mx_Grau",
-      "trackLayout": "Física 20c",
-      "categories": [
-        "Motos de Grau 20c",
-        "Big Trail"
-      ],
-      "bikes": [
-        "Triumph Tiger 900",
-        "R1250 GS 20c",
-        "CG 160 20c"
-      ],
-      "session": "Grau Livre 20c",
-      "raceLength": "Livre",
-      "conditions": "Sunny",
-      "realisticWeather": false,
-      "forceCockpit": false,
-      "noAids": false,
-      "limitedTyreSets": false,
-      "hidden": "",
-      "gameVersion": "20c",
-      "official": true,
-      "networkMode": "p2p",
-      "radminNetwork": "",
-      "radminPassword": "",
-      "hostRider": "Servidor Oficial Grau BR",
-      "updatedAt": 1794262968586
-    }
-  ],
-  "modders": [
-    {
-      "id": "modder-gbr-admin",
-      "name": "GBR",
-      "role": "admin",
-      "status": "approved",
-      "discord": "@gbr_grau",
-      "avatar": "",
-      "bio": "Administrador & Fundador do MXB Grau App",
-      "createdAt": 1794250000000
-    },
-    {
-      "id": "modder-jota",
-      "name": "JOTA DO GRAU",
-      "role": "modder",
-      "status": "approved",
-      "discord": "@jota_grau",
-      "avatar": "",
-      "bio": "Especialista em montadinhas SP, 160 e motos preparadas",
-      "createdAt": 1794250000000
-    }
-  ]
+    "version":  "2.1.0",
+    "appRelease":  {
+                       "version":  "2.1.0",
+                       "downloadUrl":  "https://github.com/GBZINDEVLOPMENT/mxb-grau-database/releases",
+                       "notes":  "Versão oficial MXB GRAU com Mural de Rolezinhos, Chat de Voz e Catálogo Automático."
+                   },
+    "servers":  {
+                    "value":  [
+                                  {
+                                      "name":  "[OFICIAL #1] GRAU SP 24H â€” MAPA SP ROLEZINHO \u0026 FLUXO",
+                                      "address":  "26.37.198.197:54210",
+                                      "joinable":  true,
+                                      "lanAddress":  "127.0.0.1:54210",
+                                      "players":  0,
+                                      "maxPlayers":  30,
+                                      "pingMs":  14,
+                                      "passworded":  false,
+                                      "location":  "BR Â· Brasil Â· Rede GrauNet P2P",
+                                      "bots":  0,
+                                      "rating":  "",
+                                      "track":  "MAPA_SP",
+                                      "trackLayout":  "Fluxo \u0026 RetÃ£o",
+                                      "categories":  [
+                                                         "Motos de Grau",
+                                                         "Montadinhas",
+                                                         "Big Trail"
+                                                     ],
+                                      "bikes":  [
+                                                    "CG 160 Titan",
+                                                    "XJ6 N",
+                                                    "Hornet 600",
+                                                    "BMW R1250 GS"
+                                                ],
+                                      "session":  "Grau Livre 24h",
+                                      "raceLength":  "Livre",
+                                      "conditions":  "Sunny",
+                                      "realisticWeather":  false,
+                                      "forceCockpit":  false,
+                                      "noAids":  false,
+                                      "limitedTyreSets":  false,
+                                      "hidden":  "",
+                                      "gameVersion":  "18j",
+                                      "official":  true,
+                                      "networkMode":  "p2p",
+                                      "radminNetwork":  "",
+                                      "radminPassword":  "",
+                                      "hostRider":  "Servidor Oficial Grau BR",
+                                      "updatedAt":  1794262968586
+                                  },
+                                  {
+                                      "name":  "[OFICIAL #2] PROJETO GRAU BRASIL â€” RETÃƒO \u0026 RACHA NOTURNO",
+                                      "address":  "26.37.198.197:54211",
+                                      "joinable":  true,
+                                      "lanAddress":  "127.0.0.1:54211",
+                                      "players":  0,
+                                      "maxPlayers":  25,
+                                      "pingMs":  16,
+                                      "passworded":  false,
+                                      "location":  "BR Â· Brasil Â· Rede GrauNet P2P",
+                                      "bots":  0,
+                                      "rating":  "",
+                                      "track":  "ProjetoGrau2",
+                                      "trackLayout":  "Pista Noturna",
+                                      "categories":  [
+                                                         "Motos de Grau",
+                                                         "Rua"
+                                                     ],
+                                      "bikes":  [
+                                                    "BMW R1250 GS",
+                                                    "XJ6 N",
+                                                    "CG 160"
+                                                ],
+                                      "session":  "RolÃª Noturno",
+                                      "raceLength":  "Livre",
+                                      "conditions":  "Clear",
+                                      "realisticWeather":  false,
+                                      "forceCockpit":  false,
+                                      "noAids":  false,
+                                      "limitedTyreSets":  false,
+                                      "hidden":  "",
+                                      "gameVersion":  "18j",
+                                      "official":  true,
+                                      "networkMode":  "p2p",
+                                      "radminNetwork":  "",
+                                      "radminPassword":  "",
+                                      "hostRider":  "Servidor Oficial Grau BR",
+                                      "updatedAt":  1794262968586
+                                  },
+                                  {
+                                      "name":  "[OFICIAL #3 BETA 20C] MX GRAU ARENA â€” NOVA FÃSICA 20C",
+                                      "address":  "26.37.198.197:54212",
+                                      "joinable":  true,
+                                      "lanAddress":  "127.0.0.1:54212",
+                                      "players":  0,
+                                      "maxPlayers":  25,
+                                      "pingMs":  18,
+                                      "passworded":  false,
+                                      "location":  "BR Â· Brasil Â· Rede GrauNet P2P",
+                                      "bots":  0,
+                                      "rating":  "",
+                                      "track":  "Mx_Grau",
+                                      "trackLayout":  "FÃ­sica 20c",
+                                      "categories":  [
+                                                         "Motos de Grau 20c",
+                                                         "Big Trail"
+                                                     ],
+                                      "bikes":  [
+                                                    "Triumph Tiger 900",
+                                                    "R1250 GS 20c",
+                                                    "CG 160 20c"
+                                                ],
+                                      "session":  "Grau Livre 20c",
+                                      "raceLength":  "Livre",
+                                      "conditions":  "Sunny",
+                                      "realisticWeather":  false,
+                                      "forceCockpit":  false,
+                                      "noAids":  false,
+                                      "limitedTyreSets":  false,
+                                      "hidden":  "",
+                                      "gameVersion":  "20c",
+                                      "official":  true,
+                                      "networkMode":  "p2p",
+                                      "radminNetwork":  "",
+                                      "radminPassword":  "",
+                                      "hostRider":  "Servidor Oficial Grau BR",
+                                      "updatedAt":  1794262968586
+                                  }
+                              ],
+                    "Count":  3
+                },
+    "mods":  {
+                 "value":  [
+                               {
+                                   "id":  1794180536381,
+                                   "slug":  "mini-pack-de-4-motos-do-neri",
+                                   "title":  "MINI PACK DE 4 MOTOS DO NERI",
+                                   "author":  "NERI",
+                                   "authorUrl":  null,
+                                   "categoryId":  7,
+                                   "categories":  [
+                                                      "Mods de Grau"
+                                                  ],
+                                   "gameVersions":  [
+                                                        "18j"
+                                                    ],
+                                   "version":  "v1.0",
+                                   "date":  "2026-11-08T23:28:56.381Z",
+                                   "image":  "https://images.unsplash.com/photo-1558981806-ec527fa84c39?w=900\u0026auto=format\u0026fit=crop\u0026q=80",
+                                   "images":  [
+                                                  "https://images.unsplash.com/photo-1558981806-ec527fa84c39?w=1200\u0026auto=format\u0026fit=crop\u0026q=80"
+                                              ],
+                                   "descriptionHtml":  "\u003cp\u003ePack do Neri contÃ©m 4 motos preparadas para grau e raspÃ£o de placa.\u003c/p\u003e",
+                                   "downloads":  [
+                                                     {
+                                                         "url":  "https://www.mediafire.com/file/ragi1ipm71zsovp/mini_pack_do_neri.rar/file",
+                                                         "host":  "Download Beta 18j",
+                                                         "isDefault":  true,
+                                                         "isServer":  false,
+                                                         "label":  "Download Beta 18j (.pkz / .zip)",
+                                                         "gameVersion":  "18j"
+                                                     }
+                                                 ],
+                                   "views":  120,
+                                   "ratingAvg":  5,
+                                   "ratingCount":  14
+                               },
+                               {
+                                   "id":  1001,
+                                   "slug":  "honda-cg-160-titan-2024-montadinha-grau",
+                                   "title":  "Honda CG 160 Titan 2024 Montadinha + Escape Dore \u0026 Estralador",
+                                   "author":  "Gabriel Mods Grau",
+                                   "authorUrl":  null,
+                                   "categoryId":  7,
+                                   "categories":  [
+                                                      "Motos de Grau",
+                                                      "Honda",
+                                                      "Montadinhas"
+                                                  ],
+                                   "gameVersions":  [
+                                                        "18j",
+                                                        "20c"
+                                                    ],
+                                   "version":  "v2.4 Full",
+                                   "date":  "2026-11-08T12:00:00Z",
+                                   "image":  "https://images.unsplash.com/photo-1558981806-ec527fa84c39?w=900\u0026auto=format\u0026fit=crop\u0026q=80",
+                                   "images":  [
+                                                  "https://images.unsplash.com/photo-1558981806-ec527fa84c39?w=1200\u0026auto=format\u0026fit=crop\u0026q=80"
+                                              ],
+                                   "descriptionHtml":  "\u003cp\u003e\u003cb\u003eCG 160 Titan 2024 Montadinha de Grau\u003c/b\u003e pronta para dar grau, RL, raspÃ£o de placa e corte de giro!\u003c/p\u003e",
+                                   "downloads":  [
+                                                     {
+                                                         "url":  "https://www.mediafire.com/file/ragi1ipm71zsovp/mini_pack_do_neri.rar/file",
+                                                         "host":  "MediaFire (Beta 18j)",
+                                                         "isDefault":  true,
+                                                         "isServer":  false,
+                                                         "label":  "Download CG 160 Titan â€” FÃ­sica Beta 18j (.rar)",
+                                                         "gameVersion":  "18j"
+                                                     }
+                                                 ],
+                                   "views":  4820,
+                                   "ratingAvg":  4.9,
+                                   "ratingCount":  142
+                               },
+                               {
+                                   "id":  1002,
+                                   "slug":  "yamaha-xj6-n-so-o-cano-grau-br",
+                                   "title":  "Yamaha XJ6 N 600cc â€” SÃ³ o Cano 4x1 + Pneu Michelin Pilot Road",
+                                   "author":  "Equipe Grau 244",
+                                   "authorUrl":  null,
+                                   "categoryId":  7,
+                                   "categories":  [
+                                                      "Motos de Grau",
+                                                      "Yamaha",
+                                                      "4 Cilindros"
+                                                  ],
+                                   "gameVersions":  [
+                                                        "18j"
+                                                    ],
+                                   "version":  "v1.8",
+                                   "date":  "2026-11-07T18:30:00Z",
+                                   "image":  "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=900\u0026auto=format\u0026fit=crop\u0026q=80",
+                                   "images":  [
+                                                  "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=1200\u0026auto=format\u0026fit=crop\u0026q=80"
+                                              ],
+                                   "descriptionHtml":  "\u003cp\u003eA lendÃ¡ria \u003cb\u003eXJ6 N 4 cilindros\u003c/b\u003e com ronco 4x1 direto cortando giro alto.\u003c/p\u003e",
+                                   "downloads":  [
+                                                     {
+                                                         "url":  "https://www.mediafire.com/file/ragi1ipm71zsovp/mini_pack_do_neri.rar/file",
+                                                         "host":  "Download XJ6 (18j)",
+                                                         "isDefault":  true,
+                                                         "isServer":  false,
+                                                         "label":  "Download XJ6 N 600cc (.rar)",
+                                                         "gameVersion":  "18j"
+                                                     }
+                                                 ],
+                                   "views":  3950,
+                                   "ratingAvg":  4.8,
+                                   "ratingCount":  98
+                               }
+                           ],
+                 "Count":  3
+             },
+    "modders":  [
+                    {
+                        "id":  "modder-gbr-admin",
+                        "avatar":  "",
+                        "bio":  "Administrador \u0026 Fundador do MXB Grau App",
+                        "discord":  "@gbr_grau",
+                        "name":  "GBR",
+                        "status":  "approved",
+                        "role":  "admin",
+                        "createdAt":  1794250000000
+                    },
+                    {
+                        "id":  "modder-neri",
+                        "avatar":  "",
+                        "bio":  "Criador oficial de Mini Packs",
+                        "discord":  "@neri_mods",
+                        "name":  "NERI",
+                        "status":  "approved",
+                        "role":  "modder",
+                        "createdAt":  1794250000000
+                    },
+                    {
+                        "id":  "modder-jota",
+                        "avatar":  "",
+                        "bio":  "Especialista em montadinhas SP",
+                        "discord":  "@jota_grau",
+                        "name":  "JOTA DO GRAU",
+                        "status":  "approved",
+                        "role":  "modder",
+                        "createdAt":  1794250000000
+                    }
+                ],
+    "events":  {
+                   "value":  [
+                                 {
+                                     "id":  "evento-sp-sabado",
+                                     "title":  "GRANDE ENCONTRO DO GRAU â€” MAPA SP NOTURNO",
+                                     "bannerUrl":  "https://cdn.discordapp.com/attachments/1081719108049051719/1569110178710954094/Captura_de_tela_2026-11-08_190136.png",
+                                     "dateStr":  "SÃ¡bado Ã s 21:00h",
+                                     "timestamp":  1794500000000,
+                                     "locationTrack":  "MAPA_SP (Rolezinho \u0026 Fluxo)",
+                                     "bikePackName":  "Mini Pack do Neri (160, XJ6, Hornet, R1250 GS)",
+                                     "packDownloadUrl":  "https://www.mediafire.com/file/ragi1ipm71zsovp/mini_pack_do_neri.rar/file",
+                                     "serverAddress":  "26.37.198.197:54210",
+                                     "author":  "GBR (Admin)",
+                                     "description":  "Encontro oficial da comunidade do Grau. Racha no retÃ£o, motovlog no fluxo e manobras sincronizadas na quebrada. Proibido bater!",
+                                     "active":  true
+                                 },
+                                 {
+                                     "id":  "evento-favela-fluxo",
+                                     "title":  "DESAFIO DO FLUXO â€” FAVELA DA ROCINHA \u0026 BECO",
+                                     "bannerUrl":  "",
+                                     "dateStr":  "Domingo Ã s 19:30h",
+                                     "timestamp":  1794586400000,
+                                     "locationTrack":  "Favela da Rocinha Grau",
+                                     "bikePackName":  "Montadinhas 160 \u0026 Big Trails",
+                                     "packDownloadUrl":  "https://www.mediafire.com/file/favela_da_rocinha_grau.pkz/file",
+                                     "serverAddress":  "26.37.198.197:54211",
+                                     "author":  "NERI",
+                                     "description":  "Subida do morro raspando a placa. Conectem pelo app e entrem no Discord!",
+                                     "active":  true
+                                 }
+                             ],
+                   "Count":  2
+               },
+    "updatedAt":  1794374727055
 }
